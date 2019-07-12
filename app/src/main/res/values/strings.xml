@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">艦これHTML5</string>
+    <string name="mute_label_short">艦これMute</string>
+    <string name="mute_label_long">ミュートで起動</string>
+    <string name="mute_disabled">ミュート起動不可</string>
+</resources>
